@@ -55,6 +55,22 @@
         "slug": "bsc_testnet"
       },
       "show": true
+    },
+    {
+      "chainId": "0xfa",
+      "balance": "0",
+      "tokens": [],
+      "nfts": [],
+      "nativeCurrency": {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "fantom_opera"
+      },
+      "show": false
     }
+
   ]
   
