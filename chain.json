@@ -1,51 +1,75 @@
-[
+
+
+  [
     {
+      "name": "BNB Smart Chain",
+      "mainnet": true,
+      "slug": "bsc",
+      "show": true,
       "chainId": "0x38",
-      "balance": "0",
-      "tokens": [],
-      "nfts": [],
+      "networkVersion": "56",
+      "rpcUrl": "https://bsc-dataseed.binance.org/",
+      "blockExplorerUrl": "https://bscscan.com",
       "nativeCurrency": {
         "name": "Binance Coin",
         "symbol": "BNB",
         "decimals": 18,
+        "balance": "0",
         "address": "0x0000000000000000000000000000000000000000",
         "slug": "bsc"
       },
-      "show": true
+      "tokens": [],
+      "nfts": []
     },
     {
+      "name": "Ethereum Mainnet",
+      "mainnet": true,
+      "show": true,
+      "slug": "ethereum",
       "chainId": "0x1",
-      "balance": "0",
-      "tokens": [],
-      "nfts": [],
+      "networkVersion": "1",
+      "rpcUrl": "https://rpc.builder0x69.io",
+      "blockExplorerUrl": "https://etherscan.io",
       "nativeCurrency": {
         "name": "Ethereum",
         "symbol": "ETH",
         "decimals": 18,
+        "balance": "0",
         "address": "0x0000000000000000000000000000000000000000",
         "slug": "ethereum"
       },
-      "show": true
+      "tokens": [],
+      "nfts": []
     },
     {
+      "name": "Polygon",
+      "mainnet": true,
+      "show": true,
+      "slug": "polygon",
+      "networkVersion": "137",
       "chainId": "0x89",
-      "balance": "0",
-      "tokens": [],
-      "nfts": [],
+      "rpcUrl": "https://polygon.llamarpc.com",
+      "blockExplorerUrl": "https://polygonscan.com",
       "nativeCurrency": {
         "name": "Matic",
         "symbol": "MATIC",
         "decimals": 18,
+        "balance": "0",
         "address": "0x0000000000000000000000000000000000000000",
         "slug": "polygon"
       },
-      "show": true
+      "tokens": [],
+      "nfts": []
     },
     {
+      "name": "BNB Smart Chain Testnet",
+      "mainnet": false,
+      "show": true,
+      "slug": "bsc_testnet",
+      "networkVersion": "97",
       "chainId": "0x61",
-      "balance": "0",
-      "tokens": [],
-      "nfts": [],
+      "rpcUrl": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+      "blockExplorerUrl": "https://testnet.bscscan.com",
       "nativeCurrency": {
         "name": "Binance Coin",
         "symbol": "BNB",
@@ -54,13 +78,19 @@
         "address": "0x0000000000000000000000000000000000000000",
         "slug": "bsc_testnet"
       },
-      "show": true
+      "tokens": [],
+      "nfts": []
     },
     {
+      "name": "Fantom Opera",
       "chainId": "0xfa",
+      "mainnet": true,
       "balance": "0",
-      "tokens": [],
-      "nfts": [],
+      "rpcUrl":"https://rpcapi.fantom.network",
+      "blockExplorerUrl": "https://ftmscan.com",
+      "networkVersion": "250",
+      "slug": "fantom_opera",
+      "show": false,
       "nativeCurrency": {
         "name": "Fantom",
         "symbol": "FTM",
@@ -69,8 +99,10 @@
         "address": "0x0000000000000000000000000000000000000000",
         "slug": "fantom_opera"
       },
-      "show": false
+     
+      "tokens": [],
+      "nfts": []
     }
-
   ]
+  
   
