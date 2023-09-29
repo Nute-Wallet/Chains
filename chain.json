@@ -111,7 +111,7 @@
       "rpcUrl":"https://avalanche-mainnet.infura.io",
       "blockExplorerUrl": "https://snowtrace.io/",
       "networkVersion": "43114",
-      "slug": "avalanche_network",
+      "slug": "avalanche",
       "show": false,
       "nativeCurrency": {
         "name": "AVAX",
@@ -119,7 +119,7 @@
         "decimals": 18,
         "balance": "0",
         "address": "0x0000000000000000000000000000000000000000",
-        "slug": "avalanche_network"
+        "slug": "avalanche"
       },
      
       "tokens": [],
