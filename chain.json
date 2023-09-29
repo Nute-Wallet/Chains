@@ -102,7 +102,99 @@
      
       "tokens": [],
       "nfts": []
+    },
+    {
+      "name": "Avalanche Network C-Chain",
+      "chainId": "0xa86a",
+      "mainnet": true,
+      "balance": "0",
+      "rpcUrl":"https://avalanche-mainnet.infura.io",
+      "blockExplorerUrl": "https://snowtrace.io/",
+      "networkVersion": "43114",
+      "slug": "avalanche_network",
+      "show": false,
+      "nativeCurrency": {
+        "name": "AVAX",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "avalanche_network"
+      },
+     
+      "tokens": [],
+      "nfts": []
+    },
+    {
+      "name": "Optimism",
+      "chainId": "0xa",
+      "mainnet": true,
+      "balance": "0",
+      "rpcUrl":"https://optimism-mainnet.infura.io",
+      "blockExplorerUrl": "https://optimistic.etherscan.io/",
+      "networkVersion": "10",
+      "slug": "optimism",
+      "show": false,
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "optimism"
+      },
+     
+      "tokens": [],
+      "nfts": []
+    },
+    {
+      "name": "Arbitrum LlamaNodes",
+      "chainId": "0xa4b1",
+      "mainnet": true,
+      "balance": "0",
+      "rpcUrl":"https://arbitrum.llamarpc.com",
+      "blockExplorerUrl": "https://arbiscan.io",
+      "networkVersion": "42161",
+      "slug": "arbitrum",
+      "show": false,
+      "nativeCurrency": {
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "arbitrum"
+      },
+     
+      "tokens": [],
+      "nfts": []
+    },
+    {
+      "name": "Solana",
+      "chainId": "0xe9ac0d6",
+      "mainnet": true,
+      "balance": "0",
+      "rpcUrl":"https://neon-proxy-mainnet.solana.p2p.org",
+      "blockExplorerUrl": "https://neonscan.org",
+      "networkVersion": "245022934",
+      "slug": "neon",
+      "show": false,
+      "nativeCurrency": {
+        "name": "NEON",
+        "symbol": "NEON",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "neon"
+      },
+     
+      "tokens": [],
+      "nfts": []
     }
+    
+
+
+
   ]
   
   
