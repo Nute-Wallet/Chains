@@ -102,11 +102,73 @@
      
       "tokens": [],
       "nfts": []
+    },
+    {
+      "name": "Avalanche Network C-Chain",
+      "chainId": "0xa86a",
+      "mainnet": true,
+      "balance": "0",
+      "rpcUrl":"https://avalanche-mainnet.infura.io",
+      "blockExplorerUrl": "https://snowtrace.io/",
+      "networkVersion": "43114",
+      "slug": "avalanche",
+      "show": false,
+      "nativeCurrency": {
+        "name": "AVAX",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "avalanche"
+      },
+     
+      "tokens": [],
+      "nfts": []
+    },
+    {
+      "name": "Optimism",
+      "chainId": "0xa",
+      "mainnet": true,
+      "balance": "0",
+      "rpcUrl":"https://optimism-mainnet.infura.io",
+      "blockExplorerUrl": "https://optimistic.etherscan.io/",
+      "networkVersion": "10",
+      "slug": "optimism",
+      "show": false,
+      "nativeCurrency": {
+        "name": "optimism ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "optimism"
+      },
+     
+      "tokens": [],
+      "nfts": []
+    },
+    {
+      "name": "Arbitrum LlamaNodes",
+      "chainId": "0xa4b1",
+      "mainnet": true,
+      "balance": "0",
+      "rpcUrl":"https://arbitrum.llamarpc.com",
+      "blockExplorerUrl": "https://arbiscan.io",
+      "networkVersion": "42161",
+      "slug": "arbitrum",
+      "show": false,
+      "nativeCurrency": {
+        "name": "arbitrum ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "balance": "0",
+        "address": "0x0000000000000000000000000000000000000000",
+        "slug": "arbitrum"
+      },
+     
+      "tokens": [],
+      "nfts": []
     }
-   
-    
-
-
 
   ]
   
