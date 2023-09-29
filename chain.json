@@ -136,7 +136,7 @@
       "slug": "optimism",
       "show": false,
       "nativeCurrency": {
-        "name": "optimism",
+        "name": "optimism ETH",
         "symbol": "ETH",
         "decimals": 18,
         "balance": "0",
@@ -158,7 +158,7 @@
       "slug": "arbitrum",
       "show": false,
       "nativeCurrency": {
-        "name": "arbitrum",
+        "name": "arbitrum ETH",
         "symbol": "ETH",
         "decimals": 18,
         "balance": "0",
